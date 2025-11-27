@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Dhaval Baraiya</h1>
 <h3 align="center">Odoo Developer | ERP Customization & Integration | Website & POS Customization</h3>
 
+---
 ### About Me
 
 Passionate Odoo Developer with hands-on experience in ERP customization, API integration, Website, and POS development. I'm skilled in Python, JavaScript, PostgreSQL, and QWeb with a strong focus on building efficient business solutions. My goal is to leverage technology to streamline operations and enhance user experiences.
@@ -27,12 +28,14 @@ Passionate Odoo Developer with hands-on experience in ERP customization, API int
   </tr>
 </table>
 
-### GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhavalbaraiyatech&show_icons=true&theme=transparent)](https://github.com/dhavalbaraiyatech)
-
 ---
 
 ### Connect With Me
 
 -   🔗 [Portfolio](https://dhavalbaraiya.odoo.com/)
+
+---
+
+### GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhavalbaraiyatech&show_icons=true&theme=transparent)](https://github.com/dhavalbaraiyatech)
