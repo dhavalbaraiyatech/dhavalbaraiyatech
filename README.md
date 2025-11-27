@@ -28,16 +28,6 @@ Passionate Odoo Developer with hands-on experience in ERP customization, API int
   </tr>
 </table>
 
----
-
-### Hobbies
-
--   📸 Photography
--   🏞️ Hiking
--   🎮 Gaming
-
----
-
 ### GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhavalbaraiyatech&show_icons=true&theme=transparent)](https://github.com/dhavalbaraiyatech)
