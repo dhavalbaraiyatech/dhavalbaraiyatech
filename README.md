@@ -44,8 +44,3 @@ Passionate Odoo Developer with hands-on experience in ERP customization, API int
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhavalbaraiyatech&show_icons=true&theme=transparent)](https://github.com/dhavalbaraiyatech)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
