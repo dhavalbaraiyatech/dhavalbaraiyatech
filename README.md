@@ -39,7 +39,7 @@ Passionate Odoo Developer with hands-on experience in ERP customization, API int
 -   🔗 [Portfolio](https://dhavalbaraiya.odoo.com/)
 
 ---
-
+![Snake animation](https://github.com/{dhavalbaraiyatech}/{dhavalbaraiyatech}/blob/main/dist/github-contribution-grid-snake-dark.svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
