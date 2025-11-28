@@ -40,20 +40,11 @@ Passionate Odoo Developer with hands-on experience in ERP customization, API int
 
 ---
 
-<div style="text-align:center">
-  <a href="https://github.com/dhavalbaraiyatech" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/dhavalbaraiyatech/dhavalbaraiyatech/main/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Grid Snake for dhavalbaraiyatech"
-      style="max-width:100%; height:auto; border:0;"
-      loading="lazy"
-    />
-  </a>
-</div>
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/dhavalbaraiyatech/dhavalbaraiyatech/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ### GitHub Stats
 
